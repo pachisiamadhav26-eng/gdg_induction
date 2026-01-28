@@ -1,5 +1,7 @@
 # gdg_induction
 
+## ---------------------------- All three tasks are in code.py ----------------------------
+
 # 📈 StockAI: Real-Time Financial Intelligence Platform
 
 ### 🚀 Induction Task Submission (PS1)
