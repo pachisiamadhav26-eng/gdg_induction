@@ -59,11 +59,4 @@ A real-time data visualization engine that simulates a trading terminal.
 
 ---
 
-## ⚙️ Installation & Setup
 
-Follow these steps to run the application locally:
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/YOUR_USERNAME/Stock-AI-Analyst.git](https://github.com/YOUR_USERNAME/Stock-AI-Analyst.git)
-cd Stock-AI-Analyst
